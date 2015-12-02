@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin name: Directlink
+  Plugin name: Direct link
   Plugin URI: http://www.maxpagels.com
   Description: Allow your post titles to link to external sites
   Version: 0.1
